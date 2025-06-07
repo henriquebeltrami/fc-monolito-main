@@ -40,7 +40,6 @@ describe("Client Repository test", () => {
         "SC",
         "88888-888"
       )
-      // address: "Rua 123",
     })
 
     const repository = new ClientRepository()
